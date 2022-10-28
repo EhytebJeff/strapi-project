@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_page_meta_datas",
+  "info": {
+    "singularName": "home-page-meta-data",
+    "pluralName": "home-page-meta-datas",
+    "displayName": "homePageMetaData"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "homePageMetaData": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.seo"
+    }
+  }
+}

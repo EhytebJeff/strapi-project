@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_us_page_meta_datas",
+  "info": {
+    "singularName": "about-us-page-meta-data",
+    "pluralName": "about-us-page-meta-datas",
+    "displayName": "aboutUsPageMetaData"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "aboutUsPageMetaData": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.seo"
+    }
+  }
+}

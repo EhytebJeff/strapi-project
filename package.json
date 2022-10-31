@@ -15,7 +15,7 @@
     "@strapi/plugin-users-permissions": "4.4.5",
     "@strapi/strapi": "4.4.5",
     "better-sqlite3": "7.4.6",
-    "gatsby-plugin-netlify": "^5.0.1",
+    "gatsby-plugin-netlify": "^2.11.1",
     "pg": "^8.8.0"
   },
   "author": {

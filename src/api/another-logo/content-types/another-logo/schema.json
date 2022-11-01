@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "another_logos",
+  "info": {
+    "singularName": "another-logo",
+    "pluralName": "another-logos",
+    "displayName": "another logo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "anotherLogo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
